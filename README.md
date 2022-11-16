@@ -12,14 +12,14 @@ J.C.I - a package for the work and initialization of all devices in a wifi netwo
               Android Initialization <---> PC(linux) Initialization
              
 
-#Jessica
+# Jessica
 Jessica is a voice assistant that will include a lot of features such as:
 
 - Turn on the music
 - Open application (program)
 - Setting up your configuration to autorun Jessica
 
-#Cload
+# Cload
 Cloud - This is a shared cloud for storing files. Initializes all devices on the wifi network.
 
 On Android, it only works with Cloud code.
