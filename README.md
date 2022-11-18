@@ -36,3 +36,20 @@ Linux Mint 21 x86_64 work stably
 # Python
 ![изображение](https://user-images.githubusercontent.com/40025622/202738641-61c46631-913b-4187-8be4-bf9a44df0143.png)
 
+# Packet install
+                     
+                     ------------------------<python 3.10.6>--------------------↓
+                     ↓                                                          ↓
+                     ↓                                                          ↓
+                  tkinter                                                   playsound
+
+Next, we used the built-in packages
+
+# Autors
+Nironic - Python programmer
+
+n0x - Musical accompaniment
+
+UPL0N - The idea and its foundation
+
+Ty34A - Library selection and code optimization
