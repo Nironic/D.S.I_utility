@@ -29,3 +29,6 @@ On Android, it only works with Cloud code.
 Initialization is a tool for working between devices and supporting updates between them. It also has the functionality of managing devices between each other. For example, with an Android device, you can start a specific service, or you can set a specific command for PC devices or Android devices.
 
 # On 11/18/2022, it was decided to add a GUI package and rewrite the code for launching and managing systems and J.C.I packages
+
+System requirements don't matter
+![изображение](https://user-images.githubusercontent.com/40025622/202737864-578158ff-026c-4efa-826a-166c645cd8c9.png)
