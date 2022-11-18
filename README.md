@@ -33,3 +33,6 @@ Initialization is a tool for working between devices and supporting updates betw
 # System requirements don't matter
 Linux Mint 21 x86_64 work stably
 ![изображение](https://user-images.githubusercontent.com/40025622/202737864-578158ff-026c-4efa-826a-166c645cd8c9.png)
+# Python
+![изображение](https://user-images.githubusercontent.com/40025622/202738641-61c46631-913b-4187-8be4-bf9a44df0143.png)
+
