@@ -48,8 +48,4 @@ Next, we used the built-in packages
 # Autors
 Nironic - Python programmer
 
-n0x - Musical accompaniment
-
-UPL0N - The idea and its foundation
-
 Ty34A - Library selection and code optimization
